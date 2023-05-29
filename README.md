@@ -1,0 +1,1 @@
+Project to learn simple html and git basics for the odin project.
